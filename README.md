@@ -17,5 +17,7 @@ This launcher will support:
 
 ![](https://cdn.discordapp.com/attachments/724153110808887340/942885982615797760/unknown.png)
 5. You can add labels on top of the TextBoxes, you don't have to add a name to them.
+
 6. Place everything where you want to, I recommend making it look like this:
+
 ![](https://cdn.discordapp.com/attachments/724153110808887340/942887136280051752/unknown.png)
